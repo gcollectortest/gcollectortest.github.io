@@ -1,5 +1,7 @@
 # newRead
 
+![画像名](readme画像.jpg)
+
 ## Description
 詳細な説明
 
