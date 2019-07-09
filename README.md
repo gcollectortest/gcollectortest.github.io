@@ -1,6 +1,3 @@
-# gcollectortest.github.io
-
-
 # 見出し名(h1)
 ## 見出し名(h2)
 ### 見出し名(h3)
