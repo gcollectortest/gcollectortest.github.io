@@ -1,6 +1,6 @@
 # newRead
 
-![画像名](readme画像.jpg)
+![画像名](猫の子供.jpg)
 
 ## Description
 詳細な説明
